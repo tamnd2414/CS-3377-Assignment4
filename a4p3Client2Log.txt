@@ -1,0 +1,21 @@
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:31:50 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:31:52 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:31:54 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:31:56 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:31:59 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:32:01 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:32:03 2017 Thread ID: 47361224144640 (0x2b1324f0f700)
+-------------------------------------------

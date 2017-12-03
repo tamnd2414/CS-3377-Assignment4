@@ -1,0 +1,30 @@
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:44 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:46 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:48 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:50 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:52 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:54 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:56 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:24:58 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+Sat Dec  2 18:25:01 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------
+Statement: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+Sat Dec  2 18:25:03 2017 Thread ID: 47939292497664 (0x2b99bc800700)
+-------------------------------------------

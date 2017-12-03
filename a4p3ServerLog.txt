@@ -1,0 +1,63 @@
+Sat Dec  2 18:31:16 2017 ProcessID: 26873 ThreadID: 47921541191424 (0x2b959a709700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:31:19 2017 ProcessID: 26873 ThreadID: 47921541191424 (0x2b959a709700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:31:49 2017 ProcessID: 26932 ThreadID: 47361215751936 (0x2b132470e700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:31:50 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:31:51 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: delete from classics where title = 'Romeo and Juliet'
+
+Sat Dec  2 18:31:52 2017 ProcessID: 26932 ThreadID: 47361215751936 (0x2b132470e700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:31:52 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:31:53 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: insert into classics (author, title, category, year, isbn) values ('William Shakespeare', 'Romeo and Juliet', 'Fiction', '1594', '9780192814968')
+
+Sat Dec  2 18:31:54 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:31:55 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: delete from classics where title = 'Romeo and Juliet'
+
+Sat Dec  2 18:31:55 2017 ProcessID: 26932 ThreadID: 47361215751936 (0x2b132470e700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:31:56 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:31:57 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: insert into classics (author, title, category, year, isbn) values ('William Shakespeare', 'Romeo and Juliet', 'Fiction', '1594', '9780192814968')
+
+Sat Dec  2 18:31:58 2017 ProcessID: 26932 ThreadID: 47361215751936 (0x2b132470e700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:31:59 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:31:59 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: delete from classics where title = 'Romeo and Juliet'
+
+Sat Dec  2 18:32:01 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = 'Jane Austen' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:32:01 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: insert into classics (author, title, category, year, isbn) values ('William Shakespeare', 'Romeo and Juliet', 'Fiction', '1594', '9780192814968')
+
+Sat Dec  2 18:32:01 2017 ProcessID: 26932 ThreadID: 47361215751936 (0x2b132470e700)
+Processing Client#1's request: select * from classics
+
+Sat Dec  2 18:32:03 2017 ProcessID: 26932 ThreadID: 47361224144640 (0x2b1324f0f700)
+Processing Client#2's request: update classics set author = '***UNKNOWN***' where title = 'Pride and Prejudice'
+
+Sat Dec  2 18:32:03 2017 ProcessID: 26932 ThreadID: 47361232537344 (0x2b1325710700)
+Processing Client#3's request: delete from classics where title = 'Romeo and Juliet'
+

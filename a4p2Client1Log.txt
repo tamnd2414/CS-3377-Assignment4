@@ -1,0 +1,270 @@
+Statement: select * from classics
+Sat Dec  2 18:24:36 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:39 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:42 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:45 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = ***UNKNOWN***
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:48 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:51 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:54 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = ***UNKNOWN***
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:24:57 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = ***UNKNOWN***
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:25:00 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
+Statement: select * from classics
+Sat Dec  2 18:25:03 2017 Thread ID: 47939212527360 (0x2b99b7bbc700)
+author = Mark Twain
+title = The Adventures of Tom Sawyer
+category = Fiction
+year = 1876
+isbn = 9781598184891
+
+author = Jane Austen
+title = Pride and Prejudice
+category = Fiction
+year = 1811
+isbn = 9780582506206
+
+author = Charles Darwin
+title = The Origin of Species
+category = Non-Fiction
+year = 1856
+isbn = 9780517123201
+
+author = Charles Dickens
+title = The Old Curiosity Shop
+category = Fiction
+year = 1841
+isbn = 9780099533474
+
+-------------------------------------------
